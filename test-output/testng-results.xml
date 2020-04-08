@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-07T23:40:55Z" name="MyFirstSuite" finished-at="2020-04-07T23:41:18Z" duration-ms="23408">
+    <groups>
+    </groups>
+    <test started-at="2020-04-07T23:40:55Z" name="MyRegression" finished-at="2020-04-07T23:41:18Z" duration-ms="23408">
+      <class name="com.elblogdesanti.selenium.SeleniumTests">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.elblogdesanti.selenium.SeleniumTests@13df2a8c]" started-at="2020-04-07T16:40:55Z" name="start" finished-at="2020-04-07T16:41:04Z" duration-ms="9199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="myFirstTest()[pri:0, instance:com.elblogdesanti.selenium.SeleniumTests@13df2a8c]" started-at="2020-04-07T16:41:04Z" name="myFirstTest" finished-at="2020-04-07T16:41:06Z" duration-ms="2459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTest -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.elblogdesanti.selenium.SeleniumTests@13df2a8c]" started-at="2020-04-07T16:41:06Z" name="end" finished-at="2020-04-07T16:41:06Z" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.elblogdesanti.selenium.SeleniumTests@13df2a8c]" started-at="2020-04-07T16:41:06Z" name="start" finished-at="2020-04-07T16:41:15Z" duration-ms="8700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="mySecond()[pri:0, instance:com.elblogdesanti.selenium.SeleniumTests@13df2a8c]" started-at="2020-04-07T16:41:15Z" name="mySecond" finished-at="2020-04-07T16:41:18Z" duration-ms="2930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySecond -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.elblogdesanti.selenium.SeleniumTests@13df2a8c]" started-at="2020-04-07T16:41:18Z" name="end" finished-at="2020-04-07T16:41:18Z" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.elblogdesanti.selenium.SeleniumTests -->
+    </test> <!-- MyRegression -->
+  </suite> <!-- MyFirstSuite -->
+</testng-results>
